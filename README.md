@@ -1,4 +1,4 @@
-# Code-with-aarya-
+
 # 💫 About Me:
 I am Arya, a student web development learner with a strong interest in building clean, responsive, and user-friendly websites. I work with HTML, CSS, and JavaScript and am gradually exploring backend technologies like PHP and MySQL.<br>My focus is on strengthening fundamentals, writing readable code, and learning through practical projects.
 
